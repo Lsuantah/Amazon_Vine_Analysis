@@ -49,7 +49,7 @@ What percentage of non-Vine reviews were 5 stars?
 
 ## Summary: 
 
-There appear to be huge disparity in the review count between vine members and non-vine members which correlate to the 5-star review percentage. This led us to believe that there is a positivity bias in the Vine program. 
+There appear to be huge disparity in the review count between vine members and non-vine members which correlate to the 5-star review percentages between the categories. This led us to believe that there is a positivity bias in the Vine program. 
 
 
 
