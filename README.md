@@ -20,5 +20,10 @@ Data was subsequently transformed into useful data frames
 
 ![Y filter](https://user-images.githubusercontent.com/75961117/122311597-8daf3c80-cee0-11eb-8510-3dc3eb964083.PNG)
 
+The final data frame analyzed vine_table review by type and categorized the by count and by percentages. We are able to determin the number of 5 star reviews by vine members and non-members. 
+
+![Analysis](https://user-images.githubusercontent.com/75961117/122311717-cf3fe780-cee0-11eb-8552-806f412921df.PNG)
+
+
 
 
