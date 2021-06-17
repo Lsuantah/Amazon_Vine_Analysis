@@ -7,3 +7,7 @@ Pandas/Jupyter Notebook will be used to provide detail analytics on vine-table d
 
 ## Results
 
+PySpark was used to extract the data
+
+![Amazon data](https://user-images.githubusercontent.com/75961117/122311218-b2ef7b00-cedf-11eb-8344-a091ba0cd452.PNG)
+
