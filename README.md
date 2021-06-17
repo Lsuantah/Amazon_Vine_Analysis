@@ -24,6 +24,29 @@ The final data frame analyzed vine_table review by type and categorized the by c
 
 ![Analysis](https://user-images.githubusercontent.com/75961117/122311717-cf3fe780-cee0-11eb-8552-806f412921df.PNG)
 
+From the analysis, we can answer the following questions.
+
+How many Vine reviews and non-Vine reviews were there?
+
+There was a total of 4 vine reviews and 129477 non-vine reviews.
+
+How many Vine reviews were 5 stars?
+
+Out of the vine reviews, there was 1 five-star review.
+
+How many non-Vine reviews were 5 stars?
+
+74107 of the Non-vine were 5 stars
+
+What percentage of Vine reviews were 5 stars? 
+
+25% of Vine reviews were 5 stars
+
+What percentage of non-Vine reviews were 5 stars?
+
+57.24% of non-Vine reviews were 5 stars.
+
+
 
 
 
